@@ -221,7 +221,7 @@ const CONFIG = {
 				},
 				{
 					name: 'showdown',
-					link: 'https://www.play.pokemonshowdown.com',
+					link: 'https://play.pokemonshowdown.com',
 				},
 			],
 		},

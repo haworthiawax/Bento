@@ -150,13 +150,13 @@ const CONFIG = {
 					link: 'https://www.calendar.google.com',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'weather',
+					link: 'https://www.google.com/search?q=94587+weather',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'target',
 			id: '2',
 			links: [
 				{
@@ -190,8 +190,8 @@ const CONFIG = {
 					link: 'https://www.goodreads.com',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'chat',
+					link: 'https://www.chat.openai.com',
 				},
 				{
 					name: 'Hashnode',

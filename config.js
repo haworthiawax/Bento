@@ -134,20 +134,20 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'pencil',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'mail',
+					link: 'https://www.gmail.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'todoist',
+					link: 'https://www.todoist.com',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'calendar',
+					link: 'https://www.calendar.google.com',
 				},
 				{
 					name: 'Rock',
@@ -182,12 +182,12 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'book',
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'goodreads',
+					link: 'https://www.goodreads.com',
 				},
 				{
 					name: 'Reddit',
@@ -204,24 +204,23 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'play',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'y',
+					link: 'https://www.youtube.com',
+				{
+					name: 'r',
+					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'rogue',
+					link: 'https://www.pokerogue.net',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
-				},
-				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'showdown',
+					link: 'https://www.play.pokemonshowdown.com',
 				},
 			],
 		},

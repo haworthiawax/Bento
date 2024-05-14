@@ -187,11 +187,11 @@ const CONFIG = {
 			links: [
 				{
 					name: 'goodreads',
-					link: 'https://www.goodreads.com',
+					link: 'https://goodreads.com',
 				},
 				{
 					name: 'chat',
-					link: 'https://www.chat.openai.com',
+					link: 'https://chat.openai.com',
 				},
 				{
 					name: 'Hashnode',

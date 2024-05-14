@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'b39d2d84e6497d285af2f0a2b909b604', // Write here your API Key
@@ -46,25 +46,6 @@ const CONFIG = {
 	hourDarkThemeActive: '18:30',
 	hourDarkThemeInactive: '07:00',
 
-	// ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
-	// ├┴┐│ │ │  │ │ ││││└─┐
-	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
-
-	firstButtonsContainer: [
-		{
-			id: '1',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://gmail.com/',
-		},
-		{
-			id: '2',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
-		},
-	],
-
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
 	// ┴─┘┴└─┘ ┴ └─┘
@@ -72,8 +53,26 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'muscle',
 			id: '1',
+			links: [
+				{
+					name: 'mail',
+					link: 'https://gmail.com/',
+				},
+				{
+					name: 'todoist',
+					link: 'https://todoist.com',
+				},
+				{
+					name: 'calendar',
+					link: 'https://calendar.google.com',
+				},
+			],
+		},
+		{
+			icon: 'ball',
+			id: '2',
 			links: [
 				{
 					name: 'rogue',

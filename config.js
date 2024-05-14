@@ -210,6 +210,7 @@ const CONFIG = {
 				{
 					name: 'y',
 					link: 'https://www.youtube.com',
+				},
 				{
 					name: 'r',
 					link: 'https://www.reddit.com',

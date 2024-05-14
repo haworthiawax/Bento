@@ -151,7 +151,7 @@ const CONFIG = {
 				},
 				{
 					name: 'weather',
-					link: 'https://www.google.com/search?q=94587+weather',
+					link: 'https://www.google.com/search?q=weather',
 				},
 			],
 		},

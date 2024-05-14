@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: '',
+	name: 'Kyle',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -134,38 +134,51 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'muscle',
+			icon: 'music',
 			id: '1',
 			links: [
 				{
-					name: 'mail',
-					link: 'https://gmail.com/',
+					name: 'Inspirational',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'todoist',
-					link: 'https://todoist.com',
+					name: 'Classic',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'calendar',
-					link: 'https://calendar.google.com',
+					name: 'Oldies',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Rock',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
 		},
 		{
-			icon: 'ball',
+			icon: 'coffee',
 			id: '2',
 			links: [
 				{
-					name: 'rogue',
-					link: 'https://pokerogue.net/',
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'showdown',
-					link: 'https://play.pokemonshowdown.com',
+					name: 'Dribbble',
+					link: 'https://www.dribbble.com',
+				},
+				{
+					name: 'Trello',
+					link: 'https://www.trello.com',
+				},
+				{
+					name: 'Slack',
+					link: 'https://www.slack.com',
 				},
 			],
 		},
 	],
+
 	// Second Links Container
 	secondListsContainer: [
 		{
